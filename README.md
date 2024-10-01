@@ -15,7 +15,8 @@ sem deixar de lado o desenvolvimento da minha criatividade.
 
 ##   📒 O que acontece no meu GitHub?
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mallurxis&layout=compact&bg_color=111&border_color=0077B5&title_color=D14836&text_color=FFF)
-
+![mallurxis's Stats](https://github-readme-stats.vercel.app/api?username=mallurxis&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![mallurxis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallurxis&theme=dark&hide_border=true)
+![mallurxis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallurxis&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
