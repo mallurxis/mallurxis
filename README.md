@@ -14,9 +14,16 @@ sem deixar de lado o desenvolvimento da minha criatividade.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marialuisareis/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mariarreis19@gmail.com)
 
 ##   📒 O que acontece no meu GitHub?
+<div align="center" style="display: flex;">
 
-![mallurxis's Stats](https://github-readme-stats.vercel.app/api?username=mallurxis&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![mallurxis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallurxis&theme=dark&hide_border=true)
-![mallurxis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallurxis&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  
+  <a href="https://github.com/camillaalves12">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mallurxis&theme=dark&show_icons=true&hide_border=true&count_private=true" style="margin: 10px;"/>
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=mallurxis&theme=dark&hide_border=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallurxis&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  </a>
+  
+</div>
+
 
 
