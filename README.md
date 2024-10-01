@@ -17,8 +17,8 @@ sem deixar de lado o desenvolvimento da minha criatividade.
 <div align="center" style="display: flex;">
   
   <a href="https://github.com/camillaalves12">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallurxis&theme=dark&show_icons=true&hide_border=true&layout=compact" style="margin: 10px;"/>
-    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=mallurxis&theme=dark&hide_border=true"/>
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=mallurxis&theme=dark&hide_border=true" style="margin: 10px;"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallurxis&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mallurxis&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   </a>
   
