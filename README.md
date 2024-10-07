@@ -9,7 +9,18 @@ sem deixar de lado o desenvolvimento da minha criatividade.
 
 
 ##  💻 Conhecimentos
- ![C#](https://img.shields.io/badge/Csharp-9b4f96?style=for-the-badge&logo=c#&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-f05033?style=for-the-badge&logo=git&logoColor=white) ![SUBLIME](https://img.shields.io/badge/SUBLIMETEXT-4b4b4b?style=for-the-badge&logo=sublimetext&logoColor=orange) ![MySql](https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img src="https://img.shields.io/badge/SUBLIMETEXT-4b4b4b?style=for-the-badge&logo=sublimetext&logoColor=orange" alt="sublime"/>
+ 
+</div>
 
  ##  📫 Fale comigo
 
