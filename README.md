@@ -3,7 +3,9 @@ Sou estudante de tecnologia e descobri a paixão pela automatização de process
 de problemas. Venho me aprofundando no desenvolvimento de API e construção de banco de dados,
 sem deixar de lado o desenvolvimento da minha criatividade.
 
+💼 Jovem Aprendiz na Serasa Experian.
 📚 Estou no último módulo de desenvolvimento de sistemas na Etec Irmã Agostina.
+
 
 
 ##  💻 Conhecimentos
