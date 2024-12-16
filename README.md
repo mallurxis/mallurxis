@@ -18,8 +18,8 @@ sem deixar de lado o desenvolvimento da minha criatividade.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-  <img src="https://img.shields.io/badge/SUBLIMETEXT-4b4b4b?style=for-the-badge&logo=sublimetext&logoColor=orange" alt="sublime"/>
- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudiologo"/>
+ <img src="https://img.shields.io/badge/SUBLIMETEXT-4b4b4b?style=for-the-badge&logo=sublimetext&logoColor=orange" alt="sublime"/>
 </div>
 
  ##  📫 Fale comigo
