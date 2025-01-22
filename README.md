@@ -4,7 +4,7 @@ de problemas. Venho me aprofundando no desenvolvimento de API e construção de 
 sem deixar de lado o desenvolvimento da minha criatividade.
 
 💼 Jovem Aprendiz na Serasa Experian.<br>
-📚 Estou no último módulo de desenvolvimento de sistemas na Etec Irmã Agostina.
+📚 Técnica em desenvolvimento de sistemas pela Etec Irmã Agostina.
 
 
 
