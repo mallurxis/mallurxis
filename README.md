@@ -1,4 +1,5 @@
-## Oi, eu sou a Maria 👋
+## Oi, eu sou a Maria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 	
+
 Sou estudante de tecnologia e descobri a paixão pela automatização de processos e resolução 
 de problemas. Venho me aprofundando no desenvolvimento de API e construção de banco de dados e desenvolvendo meus conhecimentos em HTML, CSS e javascript.
 
@@ -7,7 +8,7 @@ de problemas. Venho me aprofundando no desenvolvimento de API e construção de 
 
 
 
-##  💻 Conhecimentos
+## 💻 Conhecimentos
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
