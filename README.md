@@ -3,7 +3,7 @@
 Sou estudante de tecnologia e descobri a paixão pela automatização de processos e resolução 
 de problemas. Venho me aprofundando no desenvolvimento de API e construção de banco de dados e desenvolvendo meus conhecimentos em HTML, CSS e javascript.
 
-💼 Jovem Aprendiz na Serasa Experian.<br>
+💼 Jovem Aprendiz no NUbank.<br>
 📚 Técnica em desenvolvimento de sistemas pela Etec Irmã Agostina.
 
 
